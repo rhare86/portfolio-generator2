@@ -1,4 +1,6 @@
-const inquirer = import('inquirer');
+const inquirer = require('inquirer');
+
+
 
 inquirer
   .prompt([
